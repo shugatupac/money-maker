@@ -1,0 +1,17 @@
+
+---
+
+### Deployment (Optional)
+For truly seamless operation, use Docker:
+#### `docker-compose.yml`
+```yaml
+version: "3"
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"

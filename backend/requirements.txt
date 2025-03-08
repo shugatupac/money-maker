@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.1
+flask==3.0.3
+schedule==1.2.1
+sqlite3  # Built-in with Python

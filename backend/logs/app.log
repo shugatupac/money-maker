@@ -1,0 +1,99 @@
+2025-03-06 20:08:12,437 - INFO - Database not found. Initializing...
+2025-03-06 20:08:12,489 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.14:5000
+2025-03-06 20:08:12,490 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 20:08:58,015 - INFO - 127.0.0.1 - - [06/Mar/2025 20:08:58] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 20:08:58,145 - INFO - 127.0.0.1 - - [06/Mar/2025 20:08:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-06 20:09:18,289 - INFO - 172.20.10.14 - - [06/Mar/2025 20:09:18] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-06 20:09:18,421 - INFO - 172.20.10.14 - - [06/Mar/2025 20:09:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-06 20:09:26,339 - INFO - 127.0.0.1 - - [06/Mar/2025 20:09:26] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:09:26,586 - INFO - API request received for /api/opportunities
+2025-03-06 20:09:26,591 - INFO - Returning 0 opportunities
+2025-03-06 20:09:26,592 - INFO - 127.0.0.1 - - [06/Mar/2025 20:09:26] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:11:14,809 - INFO - 127.0.0.1 - - [06/Mar/2025 20:11:14] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:11:15,066 - INFO - API request received for /api/opportunities
+2025-03-06 20:11:15,069 - INFO - Returning 0 opportunities
+2025-03-06 20:11:15,072 - INFO - 127.0.0.1 - - [06/Mar/2025 20:11:15] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:14:26,318 - INFO - 127.0.0.1 - - [06/Mar/2025 20:14:26] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:14:26,565 - INFO - API request received for /api/opportunities
+2025-03-06 20:14:26,568 - INFO - Returning 0 opportunities
+2025-03-06 20:14:26,570 - INFO - 127.0.0.1 - - [06/Mar/2025 20:14:26] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:16:14,818 - INFO - 127.0.0.1 - - [06/Mar/2025 20:16:14] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:16:15,061 - INFO - API request received for /api/opportunities
+2025-03-06 20:16:15,065 - INFO - Returning 0 opportunities
+2025-03-06 20:16:15,067 - INFO - 127.0.0.1 - - [06/Mar/2025 20:16:15] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:19:26,818 - INFO - 127.0.0.1 - - [06/Mar/2025 20:19:26] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:19:27,086 - INFO - API request received for /api/opportunities
+2025-03-06 20:19:27,090 - INFO - Returning 0 opportunities
+2025-03-06 20:19:27,092 - INFO - 127.0.0.1 - - [06/Mar/2025 20:19:27] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:21:14,810 - INFO - 127.0.0.1 - - [06/Mar/2025 20:21:14] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:21:15,064 - INFO - API request received for /api/opportunities
+2025-03-06 20:21:15,066 - INFO - Returning 0 opportunities
+2025-03-06 20:21:15,069 - INFO - 127.0.0.1 - - [06/Mar/2025 20:21:15] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:24:26,802 - INFO - 127.0.0.1 - - [06/Mar/2025 20:24:26] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:24:27,058 - INFO - API request received for /api/opportunities
+2025-03-06 20:24:27,064 - INFO - Returning 0 opportunities
+2025-03-06 20:24:27,066 - INFO - 127.0.0.1 - - [06/Mar/2025 20:24:27] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:27:08,815 - INFO - 127.0.0.1 - - [06/Mar/2025 20:27:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:27:09,063 - INFO - API request received for /api/opportunities
+2025-03-06 20:27:09,065 - INFO - Returning 0 opportunities
+2025-03-06 20:27:09,066 - INFO - 127.0.0.1 - - [06/Mar/2025 20:27:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:29:26,801 - INFO - 127.0.0.1 - - [06/Mar/2025 20:29:26] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:29:27,063 - INFO - API request received for /api/opportunities
+2025-03-06 20:29:27,071 - INFO - Returning 0 opportunities
+2025-03-06 20:29:27,072 - INFO - 127.0.0.1 - - [06/Mar/2025 20:29:27] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:33:36,988 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.14:5000
+2025-03-06 20:33:36,989 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-06 20:35:08,830 - INFO - 127.0.0.1 - - [06/Mar/2025 20:35:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:35:09,080 - INFO - API request received for /api/opportunities
+2025-03-06 20:35:09,095 - INFO - Returning 0 opportunities
+2025-03-06 20:35:09,097 - INFO - 127.0.0.1 - - [06/Mar/2025 20:35:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:40:08,898 - INFO - 127.0.0.1 - - [06/Mar/2025 20:40:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:40:09,077 - INFO - API request received for /api/opportunities
+2025-03-06 20:40:09,089 - INFO - Returning 0 opportunities
+2025-03-06 20:40:09,091 - INFO - 127.0.0.1 - - [06/Mar/2025 20:40:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:45:08,804 - INFO - 127.0.0.1 - - [06/Mar/2025 20:45:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:45:09,053 - INFO - API request received for /api/opportunities
+2025-03-06 20:45:09,058 - INFO - Returning 0 opportunities
+2025-03-06 20:45:09,060 - INFO - 127.0.0.1 - - [06/Mar/2025 20:45:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:50:10,685 - INFO - 127.0.0.1 - - [06/Mar/2025 20:50:10] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:50:10,979 - INFO - API request received for /api/opportunities
+2025-03-06 20:50:10,983 - INFO - Returning 0 opportunities
+2025-03-06 20:50:10,985 - INFO - 127.0.0.1 - - [06/Mar/2025 20:50:10] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:55:08,807 - INFO - 127.0.0.1 - - [06/Mar/2025 20:55:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 20:55:09,071 - INFO - API request received for /api/opportunities
+2025-03-06 20:55:09,075 - INFO - Returning 0 opportunities
+2025-03-06 20:55:09,076 - INFO - 127.0.0.1 - - [06/Mar/2025 20:55:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:01:35,808 - INFO - 127.0.0.1 - - [06/Mar/2025 21:01:35] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:01:36,203 - INFO - API request received for /api/opportunities
+2025-03-06 21:01:36,207 - INFO - Returning 0 opportunities
+2025-03-06 21:01:36,211 - INFO - 127.0.0.1 - - [06/Mar/2025 21:01:36] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:05:08,815 - INFO - 127.0.0.1 - - [06/Mar/2025 21:05:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:05:09,068 - INFO - API request received for /api/opportunities
+2025-03-06 21:05:09,075 - INFO - Returning 0 opportunities
+2025-03-06 21:05:09,077 - INFO - 127.0.0.1 - - [06/Mar/2025 21:05:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:10:08,820 - INFO - 127.0.0.1 - - [06/Mar/2025 21:10:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:10:09,053 - INFO - API request received for /api/opportunities
+2025-03-06 21:10:09,055 - INFO - Returning 0 opportunities
+2025-03-06 21:10:09,057 - INFO - 127.0.0.1 - - [06/Mar/2025 21:10:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:15:08,805 - INFO - 127.0.0.1 - - [06/Mar/2025 21:15:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:15:09,055 - INFO - API request received for /api/opportunities
+2025-03-06 21:15:09,058 - INFO - Returning 0 opportunities
+2025-03-06 21:15:09,059 - INFO - 127.0.0.1 - - [06/Mar/2025 21:15:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:20:08,814 - INFO - 127.0.0.1 - - [06/Mar/2025 21:20:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:20:09,069 - INFO - API request received for /api/opportunities
+2025-03-06 21:20:09,071 - INFO - Returning 0 opportunities
+2025-03-06 21:20:09,072 - INFO - 127.0.0.1 - - [06/Mar/2025 21:20:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:25:08,807 - INFO - 127.0.0.1 - - [06/Mar/2025 21:25:08] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:25:09,061 - INFO - API request received for /api/opportunities
+2025-03-06 21:25:09,064 - INFO - Returning 0 opportunities
+2025-03-06 21:25:09,066 - INFO - 127.0.0.1 - - [06/Mar/2025 21:25:09] "GET /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:25:28,658 - INFO - 127.0.0.1 - - [06/Mar/2025 21:25:28] "OPTIONS /api/opportunities HTTP/1.1" 200 -
+2025-03-06 21:25:28,821 - INFO - API request received for /api/opportunities
+2025-03-06 21:25:28,823 - INFO - Returning 0 opportunities
+2025-03-06 21:25:28,824 - INFO - 127.0.0.1 - - [06/Mar/2025 21:25:28] "GET /api/opportunities HTTP/1.1" 200 -
