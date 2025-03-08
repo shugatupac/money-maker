@@ -1,0 +1,19 @@
+This application is meant to scrape and analyze prices of products
+in a given website.
+It gives u a list or table of products with their prices and also gives u the average price of all the products.
+This application is made using python and the libraries used are BeautifulSoup and requests.
+This is going help you know which product within an e-commerce website is the most expensive and which is the cheapest.
+Dropshipping is a way of selling products without holding any inventory, and this application will help you know which product.
+
+# Run both frontend and backend in the different terminal
+# For backend
+cd backend
+python app.py
+
+
+# For frontend
+cd frontend
+npm install
+npm run dev
+npm start
+
